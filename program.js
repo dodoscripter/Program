@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Program.js</title>
+</head>
+<body>
+<script>
 var imie = prompt ("Jak sie nazywasz?");
 var chcesz = prompt ("Hej " + imie + " Chcesz zagrac w gre?");
 var losoweCzesciCiala = ["twarz", "noga", "reka", "stopa", "koszulka"];
@@ -18,3 +25,6 @@ alert (zdanie);
 } else {
 alert ("coming soon!")
 }
+</script>
+</body>
+</html>
